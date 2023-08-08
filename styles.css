@@ -1,4 +1,18 @@
+/* Main Styles */
+
 body{
     background-color: aliceblue;
     color:rgb(226, 135, 14);
 }
+
+h1 {
+    text-align: center;
+  }
+
+  /* styling .marker in nested div */
+
+  .marker {
+    background-color: red;
+    height: 25px;
+    width: 200px;
+  }
