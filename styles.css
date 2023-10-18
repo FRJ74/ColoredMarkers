@@ -1,12 +1,12 @@
 /* Main Styles */
 
-body {
+body  {
     background-image: url(Desk.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
 }
-  
 
 h1 {
     text-align: center;
